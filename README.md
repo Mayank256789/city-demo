@@ -1,2 +1,3 @@
 # city-demo
-This my 1st git repo
+This is my 1st git repo
+Author:- Mayank S Singh
